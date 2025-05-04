@@ -8,6 +8,14 @@ This projects aims at doing "all" of a GM's works during a draft season. For tha
 
 The latter two models appeared as ideas to compliment the first model, which is already done. This is because the one that predict draft players' success will not only be useful on its own, but also to improve the "trade chart" by taking into account the overall strength of the draft and of the remaining board. Similarly, the model that predicts a team's record on the following year will be useful since it will substitute the current dictionaru (if the user prefers so).
 
-This model does a much better job at predicting the outcome of a pick when compared to the baseline model (predicting the mean of the target variable), with an error reduction of over 70%, I know the mean absolute error and mean squared error values achieved are high
+I know the mean absolute error and mean squared error values are very high, but this model does a much better job at predicting the outcome of a pick when compared to the baseline model (predicting the mean of the target variable), with an error reduction of over 70%.
+
+How to use the model:
+
+First of all, make sure to download the csv file as well as the code. Then, make sure you have all of the libraries installed.
+
+When you're ready, add the trade that you are proposing at the function call "model.train_and_predict". For easeness, put in the picks you are giving in the first list, and the picks you are receiving in the second list. For now, the model only truly works with current year and following year's picks. Nevertheless, if you want to you can add a pick in the following year after that, just make sure to include 1st, 2nd, 3rd, or whatever the round is on the string.
+
+Finally, change the next_year_picks_estimation based on how much you value each pick, as well as the record you predict the team giving a following year pick to have. Please note that for now that represents both teams' next years' picks, but this will be changed soon.
 
 Note: The historical_trades.csv file was created by AI. I am still to check if the AV difference values it gave for each trade match reality. A quick check on the trades themselves seemed to show that the picks included in each trade are correct
