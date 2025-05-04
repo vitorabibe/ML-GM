@@ -9,3 +9,5 @@ This projects aims at doing "all" of a GM's works during a draft season. For tha
 The latter two models appeared as ideas to compliment the first model, which is already done. This is because the one that predict draft players' success will not only be useful on its own, but also to improve the "trade chart" by taking into account the overall strength of the draft and of the remaining board. Similarly, the model that predicts a team's record on the following year will be useful since it will substitute the current dictionaru (if the user prefers so).
 
 This model does a much better job at predicting the outcome of a pick when compared to the baseline model (predicting the mean of the target variable), with an error reduction of over 70%, I know the mean absolute error and mean squared error values achieved are high
+
+Note: The historical_trades.csv file was created by AI. I am still to check if the AV difference values it gave for each trade match reality. A quick check on the trades themselves seemed to show that the picks included in each trade are correct
