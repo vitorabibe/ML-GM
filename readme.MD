@@ -18,4 +18,6 @@ When you're ready, add the trade that you are proposing at the function call "mo
 
 Finally, change the next_year_picks_estimation based on how much you value each pick, as well as the record you predict the team giving a following year pick to have. Please note that for now that represents both teams' next years' picks, but this will be changed soon.
 
-Note: The historical_trades.csv file was created by AI. I am still to check if the AV difference values it gave for each trade match reality. A quick check on the trades themselves seemed to show that the picks included in each trade are correct
+Note 1: The historical_trades.csv file was created by AI. I am still to check if the AV difference values it gave for each trade match reality. A quick check on the trades themselves seemed to show that the picks included in each trade are correct
+
+Note 2: The ml_board_strenght model is not yet working, just pushed it because there was too much code that I hadn't yet pushed.
