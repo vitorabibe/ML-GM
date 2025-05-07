@@ -1,0 +1,68 @@
+team_giving_picks,team_receiving_picks,picks_given,picks_received,av_difference,year
+Browns,Falcons,[6],"[27, 59, 124, 'Next Year 1st', 'Next Year 4th']",-23,2011
+Browns,Chiefs,"[27, 70]",[21],-68,2011
+Patriots,Saints,[28],"[56, 'Next Year 1st']",37,2011
+San Francisco,Denver,"[45, 108, 141]",[36],19,2011
+Green Bay,San Francisco,[55],"[61, 173]",0,2011
+Seattle,Baltimore,[56],"[62, 165, 199]",17,2011
+Miami,New Orleans,[82],"[106, 109]",6,2011
+Green Bay,San Francisco,[88],"[93, 216]",15,2011
+Green Bay,Miami,[93],"[109, 146, 224]",-2,2011
+Jacksonville,Philadelphia,[98],"[101, 210]",46,2011
+Oakland,Tampa Bay,[100],"[112, 181]",-11,2011
+Cleveland,Minnesota,[150],"[168, 170]",-6,2011
+St. Louis,Atlanta,[145],"[158, 229]",-17,2011
+Houston,St. Louis,[160],"[184, 198]",5,2011
+Oakland,Miami,[3],"[12, 42]",12,2013
+Buffalo,St. Louis,"[8, 71]","[16, 46, 78, 222]",-13,2013
+Dallas,San Francisco,[18],"[31, 74]",61,2013
+St. Louis,Atlanta,"[22, 'Next Year 7th']","[30, 92, 198]",9,2013
+New England,Minnesota,[29],"[52, 83, 102, 229]",41,2013
+San Francisco,Tennessee,[34],"[40, 216, 'Next Year 3rd']",6,2013
+Arizona,San Diego,[38],"[45, 110]",5,2013
+Green Bay,San Francisco,[55],"[61, 173]",29,2013
+San Francisco,Green Bay,[88],"[93, 216]",-3,2013
+Green Bay,Miami,[93],"[109, 146, 224]",85,2013
+Arizona,New York Giants,[110],"[116, 187]",28,2013
+Seattle,Baltimore,[56],"[62, 165, 199]",45,2013
+Denver,Green Bay,[125],"[146, 173]",0,2013
+Detroit,Seattle,[137],"[165, 199]",39,2013
+Minnesota,Carolina,[148],"[168, 225]",13,2013
+Cleveland,Buffalo,[4],"[9, 'Next Year 1st', 'Next Year 4th']",43,2014
+Minnesota,Cleveland,[8],"[9, 145]",49,2014
+Arizona,New Orleans,[20],"[27, 91]",27,2014
+Philadelphia,Cleveland,[22],"[26, 83]",-1,2014
+Seattle,Minnesota,[32],"[40, 108]",-13,2014
+Washington,Dallas,[34],"[47, 78]",-41,2014
+Buffalo,St. Louis,[41],"[44, 153]",-8,2014
+Tennessee,Philadelphia,[42],"[54, 122]",-12,2014
+Miami,San Diego,[50],"[57, 125]",16,2014
+San Francisco,Denver,"[56, 242]","[63, 171, 'Next Year 4th']",19,2014
+San Francisco,Jacksonville,[61],"[70, 150]",3,2014
+Oakland,Miami,[67],"[81, 116]",35,2014
+New England,Jacksonville,[93],"[105, 179]",-20,2014
+San Francisco,Cleveland,[94],"[106, 180]",4,2014
+Chargers,49ers,[15],"[17, 117, 'Next Year 5th']",11,2015
+Broncos,Lions,"[28, 143, 'Next Year 6th']",[23],-2,2015
+Rams,Titans,"[15, 43, 45, 76, 'Next Year 1st', 'Next Year 4th']","[1, 113, 177]",-55,2016
+Browns,Eagles,"[8, 77, 100, 'Next Year 1st', 'Next Year 2nd']","[2, 'Next Year 5th']",-93,2016
+Bears,Buccaneers,"[11, 106]",[9],7,2016
+49ers,Chiefs,"[37, 105, 178]","[28, 249]",-87,2016
+Jaguars,Ravens,"[38, 146]",[36],-50,2016
+Cardinals,Buccaneers,"[74, 106]",[59],-5,2016
+Falcons,Bills,"[75, 149, 156]",[63],7,2016
+49ers,Bears,[2],"[3, 67, 111, 'Next Year 3rd']",145,2017
+Bills,Chiefs,[10],"[27, 91, 'Next Year 1st']",-30,2017
+Browns,Texans,[12],"[25, 'Next Year 1st']",2,2017
+Seahawks,Falcons,[26],"[31, 95, 249]",29,2017
+Chiefs,Bills,[10],"[27, 91, 'Next Year 1st']",-14,2017
+Browns,Packers,"[33, 108]",[29],10,2017
+Seahawks,49ers,[31],"[34, 111]",35,2017
+Jaguars,Seahawks,"[35, 187]",[34],35,2017
+Cardinals,Bears,"[45, 119, 197, 'Next Year 4th']","[36, 221]",32,2017
+Bills,Rams,"[44, 91]","[37, 149]",-9,2017
+Vikings,Bengals,"[48, 128]",[41],1,2017
+Jets,Colts,"[6, 37, 49, 'Next Year 2nd']",[3],-154,2018
+Bills,Buccaneers,"[53, 56]","[7, 255]",95,2018
+Cardinals,Raiders,[15],"[10, 79, 152]",-23,2018
+Buccaneers,Bills,[7],"[12, 53, 205]",-50,2018
